@@ -9,10 +9,10 @@ This is a simple Express.js application that sets up a basic API endpoint to ret
    git clone https://github.com/your-username/hello-world-express.git
    cd hello-world-express
 ## Install the dependencies:
-    ```npm install```
+    npm install
   
  ## Run the app:
-    ```node app.js```
+    node app.js
        The app will be running at http://localhost:3000.
 ##  Author:
       Aakanksha - GitHub (https://github.com/kaakanksha2310/)
