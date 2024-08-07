@@ -6,7 +6,7 @@ This is a simple Express.js application that sets up a basic API endpoint to ret
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/hello-world-express.git
+   git clone https://github.com/kaakanksha2310/hello-word-express-app.git
    cd hello-world-express
 ## Install the dependencies:
     npm install
