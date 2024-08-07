@@ -12,7 +12,8 @@ This is a simple Express.js application that sets up a basic API endpoint to ret
     npm install
   
  ## Run the app:
-    node app.js
+    cd test
+    node test.js
        The app will be running at http://localhost:3000.
 ##  Author:
       Aakanksha - GitHub (https://github.com/kaakanksha2310/)
