@@ -1,6 +1,6 @@
 # Hello World Express App
 
-This is a simple Express.js application that sets up a basic API endpoint to return a "hello world" message.
+This is a simple Express.js application that sets up a basic API endpoint to return a "Hello world" message.
 
 ## Setup
 
@@ -14,7 +14,7 @@ This is a simple Express.js application that sets up a basic API endpoint to ret
  ## Run the app:
     cd test
     node test.js
-       The app will be running at http://localhost:3000.
+    The app will be running at http://localhost:3000.
 ##  Author:
       Aakanksha - GitHub (https://github.com/kaakanksha2310/)
 
